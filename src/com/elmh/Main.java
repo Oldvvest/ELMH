@@ -20,7 +20,7 @@ public class Main {
             monsterHealth = monsterHealth - goblin.getAttack();
         }
         System.out.print("Вы победили! " + goblin.getName() + " оставил вам: ");
-        goblin.dropLoot();
+//        goblin.dropLoot();
 
     }
 
