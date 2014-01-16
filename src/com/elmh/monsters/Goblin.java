@@ -6,7 +6,7 @@ public class Goblin extends Monster{
 
     private static final String NAME = "Гоблин";
     private static final int HEALTH = 20;
-    private static final int MIN_ATT = 3;
+    private static final int MIN_ATT = 1;
     private static final int MAX_ATT = 5;
 
     public Goblin() {
@@ -20,9 +20,9 @@ public class Goblin extends Monster{
 //    public void dropLoot() {
 //
 //        if (DROP_CHANCE == 1) {
-//            System.out.println(woodenShield.getName());
+//            System.out.println(woodenShield.getMonsterName());
 //        } else if (DROP_CHANCE == 2) {
-//            System.out.println(woodenSword.getName());
+//            System.out.println(woodenSword.getMonsterName());
 //        } else {
 //            System.out.println("Ничего...Хахахах!!!");
 //        }

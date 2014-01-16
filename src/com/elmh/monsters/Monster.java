@@ -5,27 +5,32 @@ public class Monster {
 
     private final String name;
     private final int health;
-    private final int attack;
+    private final int maxAtt;
+    private final int minAtt;
 
+    private int attack;
 
     public Monster( String name, int health, int maxAtt, int minAtt) {
 
-        this.attack = (int)(3 + Math.random()*((minAtt - maxAtt)+1));
         this.name = name;
         this.health = health;
+        this.maxAtt = maxAtt;
+        this.minAtt = minAtt;
 
     }
 
 
-    public int getAttack() {
-        return attack;
+    public int getMonsterAttack() {
+
+        return attack = (int)(minAtt + Math.random()*((maxAtt - minAtt)+1)) ;
+
     }
 
-    public String getName() {
+    public String getMonsterName() {
         return name;
     }
 
-    public int getHealth() {
+    public int getMonsterHealth() {
         return health;
     }
 
