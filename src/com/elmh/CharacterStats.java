@@ -5,7 +5,7 @@ package com.elmh;
  */
 public class CharacterStats {
 
-
+//
     private final String name;
     private final int health;
     private final int maxAtt;
