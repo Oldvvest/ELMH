@@ -1,7 +1,10 @@
-package com.elmh.monsters;
+package com.elmh;
 
+/**
+ * Created by admin on 21.01.14.
+ */
+public class CharacterStats {
 
-public class Monster {
 
     private final String name;
     private final int health;
@@ -10,7 +13,7 @@ public class Monster {
 
     private int attack;
 
-    public Monster( String name, int health, int maxAtt, int minAtt) {
+    public CharacterStats( String name, int health, int maxAtt, int minAtt) {
 
         this.name = name;
         this.health = health;
@@ -20,22 +23,19 @@ public class Monster {
     }
 
 
-    public int getMonsterAttack() {
+    public int getAttack() {
 
         return attack = (int)(minAtt + Math.random()*((maxAtt - minAtt)+1)) ;
 
     }
 
-    public String getMonsterName() {
+    public String getName() {
         return name;
     }
 
-    public int getMonsterHealth() {
+    public int getHealth() {
         return health;
     }
-
-
-
 
 
 }
