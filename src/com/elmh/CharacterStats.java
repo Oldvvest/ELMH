@@ -3,7 +3,7 @@ package com.elmh;
 /**
  * Created by admin on 21.01.14.
  */
-public class CharacterStats {
+public class CharacterStats extends Fight {
 
 
     private final String name;
