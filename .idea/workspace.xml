@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5cfb99-8d76-4bc6-bc32-4d60199e44d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/monsters/Goblin.class" afterPath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/monsters/Goblin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/heroes/Knight.class" afterPath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/heroes/Knight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/Main.class" afterPath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/loot/WoodenShield.class" afterPath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/loot/WoodenShield.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/loot/WoodenSword.class" afterPath="$PROJECT_DIR$/out/production/Evil Lord &amp; Mighty Hero/com/elmh/loot/WoodenSword.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/elmh/Main.java" afterPath="$PROJECT_DIR$/src/com/elmh/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Evil Lord &amp; Mighty Hero.iws" />
@@ -75,7 +67,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/elmh/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4473684">
+            <state vertical-scroll-proportion="0.44658494">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -440,6 +432,13 @@
       <option name="number" value="Default" />
       <updated>1389568074109</updated>
     </task>
+    <task id="LOCAL-00001" summary="TEST&#10;">
+      <created>1432073798379</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432073798379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -450,11 +449,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.50213903" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -504,6 +503,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -610,7 +613,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/elmh/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4473684">
+        <state vertical-scroll-proportion="0.44658494">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
